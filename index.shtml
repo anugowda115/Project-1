@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+        <!--#include virtual="includes/meta-tags.html"-->
+</head>
+<body>
+    <main class="main-wrapper">
+        <!--#include virtual="includes/header.html"-->
+        
+        <!-- Slider -->
+        <section class="landpage-banner">
+            <div class="custom-shape-divider-bottom-1656953640">
+                <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+                    <path d="M1200 120L0 16.48 0 0 1200 0 1200 120z" class="shape-fill"></path>
+                </svg>
+            </div>
+            <div class="custom-shape-divider-bottom-1656953640">
+                <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+                    <path d="M1200 120L0 16.48 0 0 1200 0 1200 120z" class="shape-fill"></path>
+                </svg>
+            </div>
+            <!-- Color Shape -->
+        </section>
+        <!-- Slider -->
+
+        <!-- About Us -->
+        <section class="about-us-wrapper" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
+            <div class="container">
+                <div class="inner-about-section">
+                    <article class="about-details">
+                        <div class="inner-about-detail">
+                            <h2 class="deth2">Welcome to Seshadripuram Independent Pu College</h2>
+                            <p>Seshadripuram Independent PU College is a powerhouse of knowledge. Here students are taken through a rigorous training to become empowered and responsible citizens. Best facilities and faculty ensure that all who pass through this hallowed portal are blessed with wisdom, knowledge and right values.</p>
+                            <p>Dr. S. Radhakrishnan says "The end-product of education should be a free creative man, who can battle against historical circumstances and adversities of nature". We at SIPUC aim to prepare students to face the world with courage and confidence.</p>
+                            <div class="next-btn">
+                                <a href="index">Read More <i class="fa-solid fa-caret-right"></i></a>
+                            </div>
+                        </div>
+                    </article>
+                    <div class="college-image" data-aos="fade-left" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="500"><img src="./images/about-college.jpg" alt=""></div>
+                </div>
+            </div>
+        </section>
+        <!-- About Us -->
+
+        <!-- Why Choose Us -->
+        <section class="why-choose-us-wrapper">
+            <div class="container">
+                <h2 class="deth-black text-center">Why Choose Us ?</h2>
+                <div class="inner-choose-content">
+                    <div class="section-left-choose-wrapper" data-aos="fade-up" data-aos-duration="3000">
+                        <div class="partone-image"><img src="./images/01.jpg" alt=""></div>
+                    </div>
+                    <div class="section-right-choose-wrapper" data-aos="fade-up" data-aos-duration="3000">
+                        <article class="number-choose-items">
+                            <h3>1</h3>
+                            <div class="why-ch">
+                                <h4>Service Oriented College</h4>
+                                <p>We are providing education that benefits all classes of students </p>
+                            </div>
+                        </article>
+                        <article class="number-choose-items">
+                            <h3>2</h3>
+                            <div class="why-ch">
+                                <h4>Well Efficient Teaching Staff</h4>
+                                <p>Our Teaching staff posses value based qualification and provide best quality education </p>
+                            </div>
+                        </article>
+                        <article class="number-choose-items">
+                            <h3>3</h3>
+                            <div class="why-ch">
+                                <h4>Ethical Value Education System</h4>
+                                <p>We believe education is a combination of both formal education and value based system. </p>
+                            </div>
+                        </article>
+                        <article class="number-choose-items">
+                            <h3>4</h3>
+                            <div class="why-ch">
+                                <h4>Modified Methodology of Teaching</h4>
+                                <p>Our Teaching Methods includes practical applicability of knowledge, career guidance apart from just textual knowledge. </p>
+                            </div>
+                        </article>
+                        <article class="number-choose-items">
+                            <h3>5</h3>
+                            <div class="why-ch">
+                                <h4>Convenient Transportation System </h4>
+                                <p>Our college is situated which is near to both Metro station and Bus stop. </p>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Why Choose Us -->
+
+        <!-- Principal Desktop -->
+        <section class="principledesktop-wrapper">
+            <div class="container">
+                <div class="inner-desktop-container">
+                    <article class="section-left-desktop-wrapper " data-aos="fade-right">
+                        <div class="principal-image"><img src="./images/principal-image.jpg" alt=""></div>
+                        <h5>Prof. C. Sumathi</h5>
+                    </article>
+                    <article class="section-right-desktop-wrapper" data-aos="fade-left">
+                        <h2 class="deth-black text-center" style="color: #343f53;">Principal's Message</h2>
+                        <p>Welcome to Seshadripuram Independent PU College, which has a rich tradition of Excellence in Education. We offer you Intellectual knowledge, Skills and Sense of Citizenship to be Globally Competitive. To help you shape that education, We offer you Excellent Infrastructure, Faculty and Unbounded opportunities, but in the end we are all counting on you to Explore your Old Passion and New Interests in ways that will lead you to be Competitive Global Citizens.</p>
+                        <div class="next-btn">
+                            <a href="index">Read More <i class="fa-solid fa-caret-right"></i></a>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+        <!-- Principal Desktop -->
+        
+        <!-- Video Section -->
+        <section class="video-news-section-wrapper">
+            <div class="container">
+                <div class="inner-video-news-section-container">
+                    <div class="inner-video-container" data-aos="fade-down-right"><i class="fa fa-video"></i></div>
+                    <div class="inner-news-container" data-aos="zoom-out-left">
+                        <article class="news-container textc">
+                            <h2 class="title-heading" data-aos="fade-right"><span class="sub-title">NE</span>WS</h2>
+                            <section class="iframe-news-holder">
+                                <iframe src="news-latest.php"></iframe>
+                            </section>
+                            <div class="next-btn">
+                                <a href="news">Read More <i class="fa-solid fa-caret-right"></i></a>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Video Section -->
+
+         <!-- facilities -->
+         <section class="facilities-wrapper">
+            <h2 class="deth-black text-center" style="color: #343f53;">Our Featurs</h2>
+            <div class="container">
+                <div class="inner-facility-container">
+                    <div class="faci" data-aos="fade-right">
+                        <div class="logo-images">
+                            <span><img src="images/pri-desk.png" alt=""></span>
+                        </div>
+                        <h4 class="text-center">Principal's Desk</h4>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, in eum odio ea totam
+                            aspernatur?</p>
+                        <div class="next-btn">
+                            <a href="news">Read More <i class="fa-solid fa-caret-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="faci center" data-aos="flip-left">
+                        <div class="logo-images">
+                            <span><img src="images/student-welfare.png" alt=""></span>
+                        </div>
+                        <h4 class="text-center">Students Welfare</h4>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, in eum odio ea totam
+                            aspernatur?</p>
+                        <div class="next-btn">
+                            <a href="news">Read More <i class="fa-solid fa-caret-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="faci" data-aos="fade-left">
+                        <div class="logo-images">
+                            <span><img src="images/courses-offered.png" alt=""></span>
+                        </div>
+                        <h4 class="text-center">Courses Offered</h4>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, in eum odio ea totam
+                            aspernatur?</p>
+                        <div class="next-btn">
+                            <a href="news">Read More <i class="fa-solid fa-caret-right"></i></a>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+        </section>
+        <!-- facilities -->
+
+        <!-- Number Count -->
+        <section class="number-count-wrapper">  
+            <div class="container">
+                <h2 class="deth-black text-center">Our Skills</h2>
+                <div class="inner-counter-container">
+                    <div class="separate" data-aos="fade-right">
+                        <div class="circle-wrap firstPercentage">
+                            <div class="circle">
+                                <div class="mask full">
+                                    <div class="fill"></div>
+                                </div>
+                            
+                                <div class="mask half">
+                                    <div class="fill"></div>
+                                </div>
+                            
+                                <div class="inside-circle">
+                                  <h3><span class="count">35</span>%</h3>
+                                    <h4>Certificate</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="separate" data-aos="fade-left">
+                        <div class="circle-wrap secondPercentage">
+                            <div class="circle">
+                                <div class="mask full">
+                                    <div class="fill"></div>
+                                </div>
+                            
+                                <div class="mask half">
+                                    <div class="fill"></div>
+                                </div>
+                            
+                                <div class="inside-circle">
+                                  <h3><span class="count">68</span>%</h3>
+                                    <h4>Student</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="separate" data-aos="fade-right">
+                        <div class="circle-wrap thirdPercentage">
+                            <div class="circle">
+                                <div class="mask full">
+                                    <div class="fill"></div>
+                                </div>
+                            
+                                <div class="mask half">
+                                    <div class="fill"></div>
+                                </div>
+                            
+                                <div class="inside-circle">
+                                  <h3><span class="count">70</span>%</h3>
+                                    <h4>Alumni</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="separate" data-aos="fade-left">
+                        <div class="circle-wrap fourthPercentage">
+                            <div class="circle">
+                                <div class="mask full">
+                                    <div class="fill"></div>
+                                </div>
+                            
+                                <div class="mask half">
+                                    <div class="fill"></div>
+                                </div>
+                            
+                                <div class="inside-circle">
+                                  <h3><span class="count">80</span>%</h3>
+                                    <h4>Conter</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="separate" data-aos="fade-right">
+                        <div class="circle-wrap fifthPercentage">
+                            <div class="circle">
+                                <div class="mask full">
+                                    <div class="fill"></div>
+                                </div>
+                            
+                                <div class="mask half">
+                                    <div class="fill"></div>
+                                </div>
+                            
+                                <div class="inside-circle">
+                                  <h3><span class="count">50</span>%</h3>
+                                    <h4>Percentage</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="separate" data-aos="fade-left">
+                        <div class="circle-wrap sixthPercentage">
+                            <div class="circle">
+                                <div class="mask full">
+                                    <div class="fill"></div>
+                                </div>
+                            
+                                <div class="mask half">
+                                    <div class="fill"></div>
+                                </div>
+                            
+                                <div class="inside-circle">
+                                  <h3><span class="count">100</span>%</h3>
+                                    <h4>Creation</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Number Count -->
+
+        <!-- Testimonials -->
+        <section class="testimonials-wrapper">
+            <div class="container">                
+                <h2 class="deth-black text-center" style="color: #343f53;">Testimonials</h2>
+                <div class="inner-testimonial-container owl-carousel">
+                    <article class="testimonial-sections">
+                        <div class="img-wrapper">
+                            <img src="images/face1.jpg" alt="Mobirise">
+                        </div>
+                        <div class="card-box">
+                            <p>Marie Jordan</p>
+                            <span class="in-details">Lorem ipsum dolor sit amet, consectetu adipiscing.</span>
+                        </div>
+                        <div class="text-wrap">
+                            <div class="icon-wrapper">
+                                <span class="link-icon"><i class="fa fa-star"></i></span>
+                            </div>
+                            <div class="icon-wrapper">
+                                <span class="link-icon"><i class="fa fa-star"></i></span>
+                            </div>
+                            <div class="icon-wrapper">
+                                <span class="link-icon"><i class="fa fa-star"></i></span>
+                            </div>
+                            <div class="icon-wrapper">
+                                <span class="link-icon"><i class="fa fa-star"></i></span>
+                            </div>
+                            
+                        </div>
+                    </article>
+                    <article class="testimonial-sections">
+                        <div class="img-wrapper">
+                            <img src="images/face1.jpg" alt="Mobirise">
+                        </div>
+                        <div class="card-box">
+                            <p>Marie Jordan</p>
+                            <span class="in-details">Lorem ipsum dolor sit amet, consectetu adipiscing.</span>
+                        </div>
+                        <div class="text-wrap">
+                            <div class="icon-wrapper">
+                                <span class="link-icon"><i class="fa fa-star"></i></span>
+                            </div>
+                            <div class="icon-wrapper">
+                                <span class="link-icon"><i class="fa fa-star"></i></span>
+                            </div>
+                            <div class="icon-wrapper">
+                                <span class="link-icon"><i class="fa fa-star"></i></span>
+                            </div>
+                            <div class="icon-wrapper">
+                                <span class="link-icon"><i class="fa fa-star"></i></span>
+                            </div>
+                            
+                        </div>
+                    </article>
+                    <article class="testimonial-sections">
+                        <div class="img-wrapper">
+                            <img src="images/face1.jpg" alt="Mobirise">
+                        </div>
+                        <div class="card-box">
+                            <p>Marie Jordan</p>
+                            <span class="in-details">Lorem ipsum dolor sit amet, consectetu adipiscing.</span>
+                        </div>
+                        <div class="text-wrap">
+                            <div class="icon-wrapper">
+                                <span class="link-icon"><i class="fa fa-star"></i></span>
+                            </div>
+                            <div class="icon-wrapper">
+                                <span class="link-icon"><i class="fa fa-star"></i></span>
+                            </div>
+                            <div class="icon-wrapper">
+                                <span class="link-icon"><i class="fa fa-star"></i></span>
+                            </div>
+                            <div class="icon-wrapper">
+                                <span class="link-icon"><i class="fa fa-star"></i></span>
+                            </div>
+                            
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+        <!-- Testimonials -->
+
+        
+        <!-- Photo Galley -->
+        <section class="photogallery-wrapper">
+            <div class="container">                
+                <h2 class="deth-black text-center">Photo Gallery</h2>
+                <div class="inner-photo-galley-container">
+                    <div id="homeGrid">
+                        <ul class="photogallery-images-cont" data-aos="flip-left">
+                            <li class="grid-1-1 horiz2">
+                                <div><p>Title 1 </p></div>
+                            </li>
+                            <li class="grid-1-2 horiz2">
+                                <div><p>Title 2</p></div>
+                            </li>
+                            <li class="grid-1-2"><div><p>Title 3</p></div></li>
+                            <li class="grid-2-2 horiz2"><div><p>Title 4</p></div></li>
+                            <li class="vert2"><div><p>Title 7</p></div></li>
+                            <li class="grid-3-1 horiz2 up1"><div><p>Title 5</p></div></li>
+                            <li class="grid-3-2 up1"><div><p>Title 6</p></div></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Photo Galley -->
+
+
+        <!-- Get In Touch -->
+        <section class="get-in-touch-wrapper">
+            <div class="container">
+                <div class="touch-main-inner-container">
+                    <article class="inner-left-section-touch" data-aos="flip-right">
+                        <form action=""  class="form-with-style">
+                            <div class="form-first-section">
+                                <div class="form-lable-part">
+                                    <label>First Name</label> 
+                                    <input type="text" name="firstname" placeholder="Your First Name*" required="required">
+                                </div>
+                                <div class="form-lable-part">
+                                    <label>Email</label> 
+                                    <input type="email" name="email" placeholder="Your Email*" data-form-field="Email" required="required">
+                                </div>
+                            </div>
+                            <div class="form-lable-part">
+                                <textarea name="message" placeholder="Message" data-form-field="Message"></textarea>
+                            </div>
+                            <div class="next-btn form-btn text-center">
+                                <a href="#" style="justify-content: center;">Send<i class="fa-solid fa-caret-right"></i></a>
+                            </div>
+                        </form>
+                    </article>
+                    <article class="inner-right-container-touch" data-aos="fade-left">
+                        <h5>Get In Touch</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, placeat! Omnis iusto, cumque id excepturi.</p>
+                    </article>
+                </div>
+            </div>
+        </section>
+        <!-- Get In Touch -->
+
+        <!-- Mapp -->
+        <section class="map-wrapper">
+            <div class="inner-map-container">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.086910554452!2d77.39887631482193!3d12.96629029085936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3dc3e72dab03%3A0x90617311e9709a6!2sMagadi%20Main%20Rd%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1656451362651!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </section>
+        <!-- Mapp -->
+
+
+        <!--Footer start-->
+        <!--#include virtual="includes/footer.html"-->
+        <!--Footer end-->
+    </main>
+
+        <!-- canvas menu initialisation -->
+        <script src="./js/common.js"></script>
+        <script>
+        (function($) {
+            var $nav = $('#main-nav');
+            var $toggle = $('.toggle');
+            var data = {};
+            var defaultData = {
+                maxWidth: !1,
+                customToggle: $toggle,
+                navTitle: "",
+                levelTitles: !0,
+                position: 'left',
+                insertClose: !0,
+                insertBack: !0,
+                labelClose: 'Close',
+                labelBack: 'Back'
+            };
+            const initNav = function(conf) {
+                var $old = $('.hc-offcanvas-nav');
+                setTimeout(function() {
+                    if ($old.length) {
+                        $old.remove()
+                    }
+                }, $toggle.hasClass('toggle-open') ? 420 : 0);
+                if ($toggle.hasClass('toggle-open')) {
+                    $toggle.click()
+                }
+                $toggle.off('click');
+                $.extend(data, conf)
+                $nav.clone().hcOffcanvasNav($.extend({}, defaultData, data))
+            }
+            initNav({});
+            $('.actions').find('a').on('click', function(e) {
+                e.preventDefault();
+                var $this = $(this).addClass('active');
+                var $siblings = $this.parent().siblings().children('a').removeClass('active');
+                initNav(eval('(' + $this.data('demo') + ')'))
+            });
+            $('.actions').find('input').on('change', function() {
+                var $this = $(this);
+                var data = eval('(' + $this.data('demo') + ')');
+                if ($this.is(':checked')) {
+                    initNav(data)
+                } else {
+                    var removeData = {};
+                    $.each(data, function(index, value) {
+                        removeData[index] = !1
+                    });
+                    initNav(removeData)
+                }
+            })
+        })(jQuery)
+        </script>
+        <!-- canvas menu initialisation -->
+        
+        <!-- JS -->
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script>
+           $('.count').each(function () {
+        $(this).prop('Counter',0).animate({
+            Counter: $(this).text()
+        }, {
+            duration: 3300,
+            easing: 'swing',
+            step: function (now) {
+                $(this).text(Math.ceil(now));
+            }
+        });
+        });
+        </script>
+        <!-- JS -->
+
+    <!-- Testimonials -->
+        <script src="js/owl.js"></script>
+        <script>
+            $('.inner-testimonial-container.owl-carousel').owlCarousel({
+                loop: true,
+        margin: 10,
+        autoplay: true,
+        nav: true,
+        navText: ["<i class='fas fa-caret-left'></i>", "<i class='fas fa-caret-right'></i>"],
+        responsive: {
+            0: {
+                items: 1
+            },
+            480: {
+                items: 1
+            },
+            650: {
+                items: 1
+            },
+            900: {
+                items: 1
+            },
+            1000: {
+                items: 2    
+            },
+            1280: {
+                items: 3
+            },
+            1600: {
+                items: 3
+            }
+        }
+    })
+    </script>
+    <!-- Testimonials -->
+
+
+</body>
+</html>
